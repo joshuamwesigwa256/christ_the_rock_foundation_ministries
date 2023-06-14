@@ -1,4 +1,28 @@
-.nav-bar {
+* {
+    text-align: center;
+}
+.nav-bar, footer {
     display: flex;
     justify-content: space-between;
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li {
+    display: inline;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.youth, .worship_team, .kids {
+    height: 400px;
+    width: 400px;
+    background-color: brown;
+    margin: 50px auto;
+    padding: 30px auto;
+}
+button {
+    color: rgb(rgb(210, 9, 9), green, blue);
 }
