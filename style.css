@@ -16,6 +16,12 @@ h2 {
 p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.services {
+    background-color: cadetblue;
+    width: 70%;
+    height: 200px;
+    margin: auto;
+}
 .youth, .worship_team, .kids {
     height: 400px;
     width: 400px;
