@@ -5,13 +5,19 @@
 .nav-bar, footer {
     display: flex;
     justify-content: space-between;
-    background-color: bisque;
+    background-color: rgba(255, 99, 71, 0.5);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    border-radius: 12px;
 }
 .nav-bar li {
     display: inline;
+    padding: 10px;
+    background-color: rgba(255, 99, 71, 0.9);
+    border-radius: 15px;
     
 }
+
 h2 {
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -24,6 +30,7 @@ p {
     height: 200px;
     margin: 20px auto;
     padding-top: 20px;
+    border-radius: 8px;
 }
 .about, .story, .vision, .locations {
     width: 80%;
