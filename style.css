@@ -26,3 +26,7 @@ p {
 button {
     color: rgb(rgb(210, 9, 9), green, blue);
 }
+img {
+    width: 30px;
+    height: 30px;
+}
