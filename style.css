@@ -40,6 +40,8 @@ p {
 }
 button {
     color: rgb(rgb(210, 9, 9), green, blue);
+    border: solid black;
+    border-radius: 12px;
 }
 img {
     width: 30px;
