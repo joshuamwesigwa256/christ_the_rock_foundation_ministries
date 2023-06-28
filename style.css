@@ -41,12 +41,22 @@ p {
     padding: 20px 20px 20px;
     border-radius: 20%;
 }
-.youth, .worship_team, .kids {
-    height: 400px;
+/* ministries page */
+.ministry {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.ministries {
+    height: auto;
     width: 400px;
     background-color: brown;
-    margin: 50px auto;
-    padding: 30px auto;
+    margin: 50px 10px;
+    padding: 20px 20px 20px;
+    border-radius: 10%;
+
+    
 }
 button {
     color: rgb(rgb(210, 9, 9), green, blue);
