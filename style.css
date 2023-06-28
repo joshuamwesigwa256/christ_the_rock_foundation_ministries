@@ -5,6 +5,7 @@
 .nav-bar, footer {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     background-color: rgba(255, 99, 71, 0.5);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 10px;
@@ -55,4 +56,10 @@ button {
 img {
     width: 30px;
     height: 30px;
+}
+li a:hover {
+    color:yellow;
+}
+li a:active {
+    color: white;
 }
