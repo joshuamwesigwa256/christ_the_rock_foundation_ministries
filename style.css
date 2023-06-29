@@ -1,6 +1,7 @@
 * {
     text-align: center;
     text-decoration: none;
+    color: white;
 }
 .nav-bar, footer {
     display: flex;
@@ -59,7 +60,7 @@ p {
     
 }
 button {
-    color: rgb(rgb(210, 9, 9), green, blue);
+    color: darkgoldenrod;
     border: solid black;
     border-radius: 12px;
 }
@@ -68,7 +69,7 @@ img {
     height: 30px;
 }
 li a:hover {
-    color:yellow;
+    color: rgb(103, 101, 101);
 }
 li a:active {
     color: white;
