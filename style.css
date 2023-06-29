@@ -74,3 +74,9 @@ li a:hover {
 li a:active {
     color: white;
 }
+
+/* index section */
+img.sunday-service {
+    width: 600px;
+    height: 400px;
+}
