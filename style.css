@@ -14,9 +14,9 @@
 }
 .nav-bar li {
     display: inline;
-    padding: 10px;
-    background-color: rgba(255, 99, 71, 0.9);
-    border-radius: 15px;
+    padding: 7px;
+    background-color: rgba(255, 99, 71, 0.6);
+    border-radius: 10px;
     
 }
 
@@ -79,4 +79,9 @@ li a:active {
 img.sunday-service {
     width: 600px;
     height: 400px;
+}
+
+/* contacts page */
+main#contact h1, p, strong  {
+    color: black;
 }
